@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baraki-weldat <b> welemhret welay baraki</b>
 - 👀 I’m interested in Artificial Intelligence/Deep Learning/. 
-- 🌱 I’m always learning new techniques, methods and life-style. 
-- 💞️ I’m looking to collaborate on artificial intelligence projects.
+- 🌱 I’m always learning new techniques, methods, and life-style and culture. 
+- 💞️ I’m looking to collaborate on artificial intelligence and Machine Learning projects.
 - 📫 You can reach me out using <a href="mailto:weldie.ed@gmail.com">weldie.ed[at]gmail.com</a> or <a href="mailto:welemhret.baraki@gmail.com">welemhret.baraki[at]gmail.com </a>
 
 <!---
