@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baraki-weldat <b> welemhret welay baraki</b>
+- 👋 Hi, I’m @baraki-weldat <b> Baraki, Welemhret Welay</b>
 - 👀 I’m interested in Artificial Intelligence/Deep Learning/. 
 - 🌱 I’m always learning new techniques, methods, and life-style and culture. 
 - 💞️ I’m looking to collaborate on artificial intelligence and Machine Learning projects.
