@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence/Deep Learning/ and Data Engineering. 
 - 🌱 I’m always learning new techniques, methods,life-style and culture. 
 - 💞️ I’m looking to collaborate on artificial intelligence and Machine Learning projects.
-- 🌍 My Personal website <a href="http://weldatbaraki.com/"> weldatbaraki.com </> is underdevelopment and will be launched in the near future with tech articles and insights both in English and Tigrinya/ትግርኛ/. 
+- 🌍 My Personal website <a href="http://weldatbaraki.com/"> weldatbaraki.com </a> is underdevelopment and will be launched in the near future with tech articles and insights both in English and Tigrinya/ትግርኛ/. 
 - 📫 You can reach me out using <a href="mailto:weldie.ed@gmail.com">weldie.ed[at]gmail.com</a> or <a href="mailto:welemhret.baraki@gmail.com">welemhret.baraki[at]gmail.com </a>
 
 <!---
