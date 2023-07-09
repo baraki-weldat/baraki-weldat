@@ -16,18 +16,10 @@
 
 ### :man_technologist: About Me:
 I am a Back-End Developer, Software Tester and Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
+- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
+- :seedling: Exploring Technical Content Writing.
 
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-👋 Hi, I’m @baraki-weldat <b> Baraki, Welemhret Welay</b> <br/>
-👨‍🎓 I am a Data Science Master's Student at the University of Skövde, Sweden. <br/>
-👀 Looking to work for Full-time, and Internship positions as a Data Scientist, Machine Learning Engineer and Data Engineer. <br/>
-🌱 I’m always learning new techniques, methods,life-style and culture. <br/>
-💞️ I’m looking to collaborate on artificial intelligence and Machine Learning projects.<br/>
-🌍 My Personal website <a href="http://weldatbaraki.com/"> weldatbaraki.com </a> is underdevelopment and will be launched in the near future with tech articles and insights both in English and Tigrinya/ትግርኛ/. <br/>
-📫 You can reach me out using <a href="mailto:weldie.ed@gmail.com">weldie.ed[at]gmail.com</a> or <a href="mailto:weldat.baraki@gmail.com">weldat.baraki[at]gmail.com </a> <br/>
-
-<!---
-baraki-weldat/baraki-weldat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weldatb/)
