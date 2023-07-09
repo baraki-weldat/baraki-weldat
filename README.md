@@ -1,6 +1,5 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" >
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=baraki-weldat&style=flat-square&color=blue" alt=""/>
@@ -9,7 +8,9 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 
 👋 Hi, I’m @baraki-weldat <b> Baraki, Welemhret Welay</b> <br/>
 👨‍🎓 I am a Data Science Master's Student at the University of Skövde, Sweden. <br/>
