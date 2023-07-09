@@ -17,7 +17,7 @@
 --- 
 
 ### :man_technologist: About Me:
-I am a Back-End Developer, Software Tester and Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
+I am Developer, Software Tester and Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
