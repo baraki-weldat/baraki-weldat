@@ -1,6 +1,10 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=baraki-weldat&style=flat-square&color=blue" alt=""/>
+
+
+
 👋 Hi, I’m @baraki-weldat <b> Baraki, Welemhret Welay</b> <br/>
 👨‍🎓 I am a Data Science Master's Student at the University of Skövde, Sweden. <br/>
 👀 Looking to work for Full-time, and Internship positions as a Data Scientist, Machine Learning Engineer and Data Engineer. <br/>
