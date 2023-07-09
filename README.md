@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 👋 Hi, I’m @baraki-weldat <b> Baraki, Welemhret Welay</b> <br/>
