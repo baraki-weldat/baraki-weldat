@@ -66,3 +66,7 @@ I am a Back-End Developer, Software Tester and Data Scientist <img src="https://
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="AZURE" alt="AZURE" width="40" height="40"/>&nbsp;
   
 </div>
+
+--- 
+
+### :fire: My Stats: 
