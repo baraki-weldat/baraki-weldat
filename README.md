@@ -76,6 +76,12 @@ I am a Back-End Developer, Software Tester and Data Scientist <img src="https://
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts : (Coming Soon)
 
+
+
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
