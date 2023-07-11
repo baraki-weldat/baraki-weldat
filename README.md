@@ -72,7 +72,7 @@ I am Developer, Software Tester and Data Scientist <img src="https://media.giphy
 ### :fire: My Stats: 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=baraki-weldat&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baraki-weldat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baraki-weldat&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
