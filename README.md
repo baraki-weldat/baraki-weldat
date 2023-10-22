@@ -76,7 +76,7 @@ I am Developer, Software Tester and Data Scientist <img src="https://media.giphy
 
 ---
 
-### :writing_hand: Blog Posts : (Coming Soon)
+### :writing_hand: Blog Posts :
 
 
 
