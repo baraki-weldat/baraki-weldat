@@ -82,6 +82,6 @@ I am Developer, Software Tester and Data Scientist <img src="https://media.giphy
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Posts ](https://baraki-weldat.medium.com/) (medium)
+- [Understanding Generative Models](https://baraki-weldat.medium.com/understanding-generative-models-unleashing-creativity-in-ai-93ff85059639) (medium)
 <!-- BLOG-POST-LIST:END -->
 
