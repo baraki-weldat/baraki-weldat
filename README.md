@@ -81,7 +81,7 @@ I am Developer, Software Tester and Data Scientist <img src="https://media.giphy
 
 
 
-<!-- BLOG-POST-LIST:START 
-- [Test Post](https://dev.to/itszed0/test-post-490g)
-BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Generative Models]([https://dev.to/itszed0/test-post-490g](https://medium.com/@baraki-weldat/understanding-generative-models-unleashing-creativity-in-ai-93ff85059639)https://medium.com/@baraki-weldat/understanding-generative-models-unleashing-creativity-in-ai-93ff85059639)
+<!-- BLOG-POST-LIST:END -->
 
