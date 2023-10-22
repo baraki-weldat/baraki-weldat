@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me:
 I am Developer, Software Tester and Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
-- :telescope: I’m working as a AI Expert and Software Engineer and contributing to backend for building web applications.
+- :telescope: In my role as an Data Scientist, I’m responsible for developing AI models for different scenarios and extracting insights from data with the help of different visualization tools using a variety of AI models.
 
 - :seedling: Exploring Technical Content Writing, AI and Machine learning researchs especially in the Tech Giant blogs. 
 
