@@ -18,11 +18,11 @@
 
 ### :man_technologist: About Me:
 I am Developer, Software Tester and Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+- :telescope: I’m working as a AI Expert and Software Engineer and contributing to backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing, AI and Machine learning researchs especially in the Tech Giant blogs. 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks, Leet, kagggle and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logoColor=white&label=baraki)](https://www.linkedin.com/in/weldatb/)
 
@@ -81,7 +81,7 @@ I am Developer, Software Tester and Data Scientist <img src="https://media.giphy
 
 
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [Test Post](https://dev.to/itszed0/test-post-490g)
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:END -->
 
